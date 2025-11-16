@@ -48,8 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo.png" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/48688034?s=200&v=4" height="40"/> <!-- YOLO -->
 </p>
 
 ---
