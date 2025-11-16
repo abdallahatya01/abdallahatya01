@@ -67,24 +67,6 @@ End-to-end ML model: training → evaluation → deployment.
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahatya01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahatya01&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdallahatya01&theme=tokyonight&margin-w=15" />
-</p>
-
 ---
 
 ## 🔗 Languages
