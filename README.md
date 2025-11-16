@@ -1,65 +1,34 @@
-<h1 align="center">Hi 👋, I'm Abdallah</h1>
-<h3 align="center">Data Engineer & AI Engineer</h3>
+# Hey! Nice to see you. 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallahatya01&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Welcome to my page!  
+I'm a **Data Engineer & AI Engineer** from 🇪🇬 Egypt, passionate about building scalable data pipelines and intelligent systems.
 
----
+## Things I work with
 
-## 🚀 Tech Stack
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)](https://numpy.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-0C0C0C?style=flat&logo=python)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python)](https://matplotlib.org/)
+[![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark)](https://spark.apache.org/)
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka)](https://kafka.apache.org/)
 
-### 🔹 **Python Ecosystem**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40"/>
-</p>
+[![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra)](https://cassandra.apache.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![SQL%20Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)](https://www.microsoft.com/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
+[![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks)](https://databricks.com/)
 
----
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake)](https://www.snowflake.com/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)](https://keras.io/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-272C34?style=flat&logo=opencv)](https://opencv.org/)
 
-### 🔹 **Big Data & Distributed Computing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/359412?s=200&v=4" height="40"/> <!-- Cassandra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-</p>
+[![YOLO](https://img.shields.io/badge/-YOLO-00D4FF?style=flat&logo=yolo)](https://github.com/ultralytics/yolov5)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)
 
 ---
 
-### 🔹 **Cloud & Data Warehousing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
-</p>
-
----
-
-### 🔹 **AI / Deep Learning**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
-</p>
-
----
-
-### 🔹 **DevOps & Deployment**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-</p>
-
----
-
-## 📫 Contact
-- Email: *(اكتبه هنا)*  
-- LinkedIn: *(لو عايز أضيفه)*
-
+*Feel free to explore my repos & connect!* 🚀
