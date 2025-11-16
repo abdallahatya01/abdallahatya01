@@ -28,6 +28,10 @@ I'm a **Data Engineer & AI Engineer** from 🇪🇬 Egypt, passionate about buil
 
 [![YOLO](https://img.shields.io/badge/-YOLO-00D4FF?style=flat&logo=yolo)](https://github.com/ultralytics/yolov5)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)](https://github.com/features/actions)
 
 ---
 
