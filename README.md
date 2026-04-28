@@ -1,7 +1,7 @@
 # Hey! Nice to see you. 👋
 
 Welcome to my page!  
-I'm a **Data Engineer & AI Engineer** from 🇪🇬 Egypt, passionate about building scalable data pipelines and intelligent systems.
+I'm a **Data Engineer** from 🇪🇬 Egypt, passionate about building scalable data pipelines and intelligent systems.
 
 ## Things I work with
 
